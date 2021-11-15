@@ -1,4 +1,4 @@
-# NVIDIA Driver Lite
+# NVIDIA GeForce Driver Lite
 
 ![demo](/demo.png)
 
