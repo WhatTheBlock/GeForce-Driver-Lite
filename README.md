@@ -6,55 +6,65 @@
 
 ### 使用說明：
 1. 依照支援的顯卡型號下載驅動
-2. 使用DDU完整移除現有的NVIDIA顯卡驅動
+2. 使用[DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html)完整移除現有的NVIDIA顯卡驅動*
 3. 解壓縮精簡版驅動程式 (建議使用最新版 7-Zip)
 4. 執行`setup.exe`安裝
+
+*非必要，但轉換版本 (Standard to DCH) 則需要先完整移除
 
 ---
 
 ### 精簡列表：
 
 #### Notebook-Standard
-- 移除GeForce Experience相關組件
-- 移除HDMI音效驅動
-- 移除VC 2017 Runtimes
-- 移除Ansel
-- 移除USB Type-C驅動 (for RTX 20XX)
-- 移除FrameView SDK (用於監控顯卡狀態)
-- 移除WMI Provider (for Quadro or NVS)
-- 移除Quadro View (for Quadro or NVS)
-- 移除Shield Wireless驅動
-- 移除安裝過程的廣告
+- GeForce Experience相關組件
+- HDMI音效驅動
+- VC 2017 Runtimes
+- Ansel
+- USB Type-C驅動 (for RTX 20XX)
+- FrameView SDK (用於監控顯卡狀態)
+- WMI Provider (for Quadro or NVS)
+- Quadro View (for Quadro or NVS)
+- Shield Wireless驅動
+- 安裝過程的廣告
 
 #### Notebook-DCH
-- 移除GeForce Experience相關組件
-- 移除HDMI音效驅動
-- 移除VC 2017 Runtimes
-- 移除USB Type-C驅動 (for RTX 20XX)
-- 移除FrameView SDK (用於監控顯卡狀態)
-- 移除Quadro View (for Quadro or NVS)
-- 移除Shield Wireless驅動
-- 移除安裝過程的廣告
+- GeForce Experience相關組件
+- HDMI音效驅動
+- VC 2017 Runtimes
+- USB Type-C驅動 (for RTX 20XX)
+- FrameView SDK (用於監控顯卡狀態)
+- Quadro View (for Quadro or NVS)
+- Shield Wireless驅動
+- 安裝過程的廣告
 
 #### Desktop-Standard
-- 移除GeForce Experience相關組件
-- 移除HDMI音效驅動
-- 移除VC 2017 Runtimes
-- 移除Ansel
-- 移除Optimus
-- 移除WMI Provider (for Quadro or NVS)
-- 移除Quadro View (for Quadro or NVS)
-- 移除Shield Wireless驅動
-- 移除安裝過程的廣告
+- GeForce Experience相關組件
+- HDMI音效驅動
+- VC 2017 Runtimes
+- Ansel
+- Optimus
+- WMI Provider (for Quadro or NVS)
+- Quadro View (for Quadro or NVS)
+- Shield Wireless驅動
+- 安裝過程的廣告
 
 #### Desktop-DCH
-- 移除GeForce Experience相關組件
-- 移除HDMI音效驅動
-- 移除VC 2017 Runtimes
-- 移除Optimus
-- 移除Quadro View (for Quadro or NVS)
-- 移除Shield Wireless驅動
-- 移除安裝過程的廣告
+- GeForce Experience相關組件
+- HDMI音效驅動
+- VC 2017 Runtimes
+- Optimus
+- Quadro View (for Quadro or NVS)
+- Shield Wireless驅動
+- 安裝過程的廣告
+
+#### AIO-DCH
+- GeForce Experience相關組件
+- HDMI音效驅動
+- VC 2017 Runtimes
+- Quadro View (for Quadro or NVS)
+- Shield Wireless驅動
+- 安裝過程的廣告
 
 ---
 
