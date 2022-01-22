@@ -32,6 +32,7 @@
 - GeForce Experience相關組件
 - HDMI音效驅動
 - VC 2017 Runtimes
+- Optimus
 - USB Type-C驅動 (for RTX 20XX)
 - FrameView SDK (用於監控顯卡狀態)
 - Quadro View (for Quadro or NVS)
