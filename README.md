@@ -29,4 +29,4 @@
 - [Win10-11 64bit](https://github.com/WhatTheBlock/GeForce-Driver-Lite/releases/tag/standard-472.12)
 
 #### DCH (Recommended)
-- [Win10-11 64bit](https://github.com/WhatTheBlock/GeForce-Driver-Lite/releases/tag/dch-527.37)
+- [Win10-11 64bit](https://github.com/WhatTheBlock/GeForce-Driver-Lite/releases/tag/dch-528.24)
