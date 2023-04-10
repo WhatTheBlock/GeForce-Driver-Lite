@@ -30,3 +30,4 @@
 
 #### DCH (Recommended)
 - [Win10-11 64bit](https://github.com/WhatTheBlock/GeForce-Driver-Lite/releases/tag/dch-531.26)
+- [Win10-11 64bit (Studio)](https://github.com/WhatTheBlock/GeForce-Driver-Lite/releases/tag/dch-studio-531.41)
